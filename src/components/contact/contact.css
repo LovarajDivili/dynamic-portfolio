@@ -165,6 +165,22 @@
 
 
 
+@media only screen and (max-width: 1150px) {
+    
+    .Contact-section-form{
+        padding:0  10rem;
+    }
+    .Contact-section-form-item input, textarea{
+        width: 90%;
+    }
+    .Contact-section-form-button{
+        width: 90%;
+    }
+  
+   
+}
+
+
 @media only screen and (max-width: 900px) {
     .Contact-section-title{
         font-size: 2rem;
@@ -189,18 +205,4 @@
     }
   
    
-}
-@media only screen and (max-width: 1150px) {
-    
-    .Contact-section-form{
-        padding:0  10rem;
-    }
-    .Contact-section-form-item input, textarea{
-        width: 90%;
-    }
-    .Contact-section-form-button{
-        width: 90%;
-    }
-  
-   
-}
+}   
