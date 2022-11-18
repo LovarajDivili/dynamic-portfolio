@@ -25,7 +25,7 @@ const Header = ({ UserData }) => {
 
         if (e.target.checked) {
             document.documentElement.style.setProperty('--primary-bg-color', '#fff');
-            document.documentElement.style.setProperty('--secondary-bg-color', '#eee');
+            document.documentElement.style.setProperty('--secondary-bg-color', '#fff');
 
             document.documentElement.style.setProperty('--primary-text-color', '#0D1117');
             document.documentElement.style.setProperty('--primary-hover-text-color', '#0D1117');

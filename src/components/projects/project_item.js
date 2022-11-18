@@ -31,7 +31,7 @@ const ProjectItem = ({ data }) => {
                 <p className='description'>{data.description}</p>
 
                 <p className='company'><span>Company:</span> {data.company}.</p>
-                {data.link ? (<p className='company'><span>View: </span><a href={data.link} target={'_blank'}> {data.link}</a></p>) : null}
+                {data.link ? (<p className='company'><span>View Site: </span><a href={data.link} target={'_blank'}>Open</a></p>) : null}
 
                 <div className='portion'>
                     <span>Portion:</span>

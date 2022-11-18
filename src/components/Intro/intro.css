@@ -103,7 +103,7 @@ padding: 0 10px;
 @media only screen and (max-width: 1000px) {
     .Into-section-main{
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
     }
     .intro-section-left{
         width: 90%;

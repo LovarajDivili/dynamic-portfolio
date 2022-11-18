@@ -43,7 +43,7 @@
     cursor: pointer;
     padding: .7rem 2rem;
     background: rgb(33 144 255);
-    color: var(--primary-hover-text-color);
+    color: #fff;
     border-radius: 50px;
     font-weight: 500;
 }
@@ -126,7 +126,7 @@
 .Contact-section-form-button{
     width: 100%;
     padding: .8rem;
-    color: var(--primary-hover-text-color);
+    color: #fff;
     font-size: 20px;
     cursor: pointer;
     transition: all .3s;

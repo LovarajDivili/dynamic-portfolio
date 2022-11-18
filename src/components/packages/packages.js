@@ -6,7 +6,6 @@ const Packages = ({ UserData }) => {
 
     const packages = UserData.packages
 
-    console.log(packages);
     return (
         <section className='Packages-section-main'>
             <div className="Packages-section-title">
