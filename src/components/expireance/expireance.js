@@ -1,8 +1,6 @@
 import React from 'react'
 import './expireance.css'
 
-import VmLogo from '../../images/vmlogo.png'
-
 const Expireance = ({ UserData }) => {
 
     const expireance = UserData.expireance

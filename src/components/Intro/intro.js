@@ -4,7 +4,6 @@ import LinkedInImg from '../../images/linkedin.png'
 import GitHubImg from '../../images/github.png'
 import GmailImg from '../../images/gmail.png'
 import IntrTemplateImg from '../../images/herobg.png'
-import { Link } from 'react-router-dom'
 
 
 
