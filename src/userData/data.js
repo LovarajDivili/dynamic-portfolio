@@ -15,6 +15,7 @@ import Heroku from '../images/languages/heroku.png'
 import MongoDB from '../images/languages/mongodb.png'
 import MySQL from '../images/languages/mysql.png'
 import Python from '../images/languages/python.png'
+import Flutter from '../images/languages/flutter.jpg'
 
 // packages
 import VisTimeline from '../images/packages/visjs_logo.png'
@@ -60,6 +61,7 @@ const UserData = {
         { name: 'Redux', logo: Redux },
         { name: 'Node Js', logo: NodeJS },
         { name: 'Express Js', logo: ExpressJS },
+        { name: 'Flutter', logo: Flutter },
         { name: 'Python', logo: Python },
         { name: 'MongoDB', logo: MongoDB },
         { name: 'GitHub', logo: Github },
